@@ -30,8 +30,8 @@ Dự án được tổ chức với cấu trúc sau:
 - `SP500_Full_Predictions_2015_2028.csv`, `VNINDEX_Full_Predictions_2015_2028.csv`: Dự đoán S&P 500 và VNINDEX.
 - `S&P500 & VNINDEX.ipynb`: Notebook dự đoán S&P 500 và VNINDEX.
 - `Vốn hóa thị trường.txt`: Thông tin vốn hóa thị trường của các cổ phiếu.
-- `Industry Index Prediction.py`: Script dự đoán chỉ số ngành.
-- `MBB Prediction with Industry Index and Financial Data.py`: Script dự đoán cổ phiếu MBB (các cổ phiếu khác tương tự).
+- `Dự đoán xu hướng ngành.py`: Script dự đoán chỉ số ngành.
+- `MBB.py`: Script dự đoán cổ phiếu MBB (các cổ phiếu khác tương tự).
 
 ### Thư mục con (ví dụ: `MBB/`, tương tự cho FPT, HAG, HPG, VNM)
 - `MBB.csv`: Dữ liệu giá lịch sử của MBB.
