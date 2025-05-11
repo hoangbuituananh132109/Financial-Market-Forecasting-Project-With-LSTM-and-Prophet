@@ -5,7 +5,7 @@ Dự án xây dựng hệ thống dự đoán giá cổ phiếu từ 10/04/2025 
 - **Chỉ số thị trường**: S&P 500 và VNINDEX.
 - **Chỉ số ngành**: Tính từ giá cổ phiếu cùng ngành, gia quyền theo vốn hóa thị trường.
 
-Dự án được thực hiện từ 01/05/2025 đến 08/05/2025, bao gồm xử lý dữ liệu, xây dựng mô hình, trực quan hóa, và đánh giá độ chính xác bằng RMSE/MAE.
+Dự án được thực hiện từ 01/05/2025 đến 08/05/2025, bao gồm xử lý dữ liệu, xây dựng mô hình, trực quan hóa.
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
